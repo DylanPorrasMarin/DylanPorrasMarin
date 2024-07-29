@@ -47,26 +47,6 @@
     </ul>
 </section>
 
-### Projects
-
-<section style="background-color:#f4f4f4; padding:20px; border-radius:10px; margin-top:20px;">
-    <h2 style="color:#2c3e50;">🚀 Projects</h2>
- -
-    <h3 style="color:#34495e;">Project Name</h3>
-    <p style="color:#34495e;">Description of the project. Highlight key technologies used and the purpose of the project.</p>
-    <ul style="color:#34495e;">
-        <li><strong>Technologies Used:</strong> C#, JavaScript, Node.js, Next.js, SQL</li>
-        <li><strong>Project Link:</strong> [GitHub Repository](#)</li>
-    </ul>
--
-    <h3 style="color:#34495e;">Another Project Name</h3>
-    <p style="color:#34495e;">Description of the project. Highlight key technologies used and the purpose of the project.</p>
-    <ul style="color:#34495e;">
-        <li><strong>Technologies Used:</strong> HTML, CSS, Bootstrap, Azure</li>
-        <li><strong>Project Link:</strong> [GitHub Repository](#)</li>
-    </ul>](url)
-</section
-
 ### Skills
 
 <section style="background-color:#ecf0f1; padding:20px; border-radius:10px; margin-top:20px;">
