@@ -20,30 +20,23 @@
 
 ---
 
-### Professional Experience
+## 🛠️ Professional Experience
 
-<section style="background-color:#ecf0f1; padding:20px; border-radius:10px; margin-top:20px;">
-    <h2 style="color:#2c3e50;">🛠️ Professional Experience</h2>
-    
-    <h3 style="color:#34495e;">Rena Ware International | September 2023 - Present</h3>
-    <ul style="color:#34495e;">
-        <li>Developed and maintained scalable RESTful APIs using ASP.NET Core and Node.js.</li>
-        <li>Led database migration projects from virtual servers to Azure cloud, optimizing performance.</li>
-        <li>Designed and optimized SQL Server queries for improved efficiency and scalability.</li>
-        <li>Built interactive reports and dashboards in Power BI to enhance data-driven decision-making.</li>
-        <li>Implemented CI/CD pipelines in Azure DevOps to automate software deployment.</li>
-        <li>Developed full-stack solutions with Next.js, improving frontend and backend integration.</li>
-        <li>Enhanced security measures in API development and data storage.</li>
-    </ul>
+### Rena Ware International | September 2023 - Present  
+- Developed and maintained scalable RESTful APIs using **ASP.NET Core** and **Node.js**.  
+- Led database migration projects from virtual servers to **Azure cloud**, optimizing performance.  
+- Designed and optimized **SQL Server** queries for improved efficiency and scalability.  
+- Built interactive reports and dashboards in **Power BI** to enhance data-driven decision-making.  
+- Implemented **CI/CD pipelines** in **Azure DevOps** to automate software deployment.  
+- Developed full-stack solutions with **Next.js**, improving frontend and backend integration.  
+- Enhanced security measures in **API development** and **data storage**.  
 
-    <h3 style="color:#34495e;">Arcavi Software S.A. | 2023</h3>
-    <ul style="color:#34495e;">
-        <li>Designed and implemented RESTful API endpoints to improve system interoperability.</li>
-        <li>Developed and optimized SQL queries for business intelligence and reporting.</li>
-        <li>Contributed to ERP software development, enhancing functionality and efficiency.</li>
-        <li>Conducted research and implemented software billing solutions based on best practices.</li>
-    </ul>
-</section>
+### Arcavi Software S.A. | 2023  
+- Designed and implemented **RESTful API endpoints** to improve system interoperability.  
+- Developed and optimized **SQL queries** for business intelligence and reporting.  
+- Contributed to **ERP software development**, enhancing functionality and efficiency.  
+- Conducted research and implemented **software billing solutions** based on best practices.  
+
 
 ---
 
