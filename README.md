@@ -6,61 +6,100 @@
 
 <section style="background-color:#f4f4f4; padding:20px; border-radius:10px;">
     <h2 style="color:#2c3e50;">👋 Hello! I'm Dylan Porras Marín</h2>
-    <p style="color:#34495e;">I am a software engineer with one and a half years of professional experience in web application development. I am passionate about creating efficient and innovative technological solutions. My expertise includes:</p>
+    <p style="color:#34495e;">I am a software engineer with over 2 years of professional experience in backend and full-stack development. Passionate about building scalable, high-performance applications and optimizing system efficiency. My expertise includes:</p>
     <ul style="color:#34495e;">
-        <li>Web application development using C#, JavaScript, Node.js, and Next.js</li>
-        <li>Relational and non-relational databases</li>
-        <li>Creating RESTful APIs</li>
-        <li>Project management tools like GitHub, Azure DevOps, and Jira</li>
-        <li>Database design and optimization</li>
-        <li>Backend development</li>
-        <li>Cloud technologies like Azure</li>
-        <li>HTML, CSS, and Bootstrap for frontend design</li>
+        <li>Backend and full-stack development using C#, ASP.NET Core, Next.js, and Node.js</li>
+        <li>Designing and optimizing relational and non-relational databases (SQL Server, MySQL, MongoDB)</li>
+        <li>Developing secure and scalable RESTful and GraphQL APIs</li>
+        <li>Working with cloud computing services (Azure, DevOps, Virtual Machines, Data Factory)</li>
+        <li>Implementing CI/CD pipelines for efficient software delivery</li>
+        <li>Enhancing business intelligence solutions using Power BI</li>
+        <li>Applying Agile (Scrum) and Test-Driven Development (TDD) methodologies</li>
     </ul>
 </section>
+
+---
 
 ### Professional Experience
 
 <section style="background-color:#ecf0f1; padding:20px; border-radius:10px; margin-top:20px;">
     <h2 style="color:#2c3e50;">🛠️ Professional Experience</h2>
-    -
-    <h3 style="color:#34495e;">Renaware | September 2023 - Present</h3>
+    
+    <h3 style="color:#34495e;">Rena Ware International | September 2023 - Present</h3>
     <ul style="color:#34495e;">
-        <li>Created REST APIs using NodeJS Express with MVC architecture.</li>
-        <li>Designed views using HTML, CSS, Bootstrap 5, and JavaScript.</li>
-        <li>Developed applications using Next.js.</li>
-        <li>Conducted database programming and design.</li>
-        <li>Created reports using advanced SQL queries.</li>
-        <li>Troubleshooted and handled software and database error cases.</li>
-        <li>Managed database migration from virtual servers to Azure cloud.</li>
-        <li>Gained experience in Microsoft Power BI with SQL databases for enterprise-level statistics.</li>
-        <li>Prepared environments in Azure cloud virtual machines.</li>
-        <li>Experienced in testing APIs in pre-production environments.</li>
+        <li>Developed and maintained scalable RESTful APIs using ASP.NET Core and Node.js.</li>
+        <li>Led database migration projects from virtual servers to Azure cloud, optimizing performance.</li>
+        <li>Designed and optimized SQL Server queries for improved efficiency and scalability.</li>
+        <li>Built interactive reports and dashboards in Power BI to enhance data-driven decision-making.</li>
+        <li>Implemented CI/CD pipelines in Azure DevOps to automate software deployment.</li>
+        <li>Developed full-stack solutions with Next.js, improving frontend and backend integration.</li>
+        <li>Enhanced security measures in API development and data storage.</li>
     </ul>
-    -
+
     <h3 style="color:#34495e;">Arcavi Software S.A. | 2023</h3>
     <ul style="color:#34495e;">
-        <li>Developed and maintained APIs to enhance system interoperability and efficiency.</li>
-        <li>Implemented endpoints and routes to enable communication between different software components.</li>
-        <li>Created and updated code for parametrizable processes in ERP software.</li>
-        <li>Researched best practices and policies for software billing implementation.</li>
+        <li>Designed and implemented RESTful API endpoints to improve system interoperability.</li>
+        <li>Developed and optimized SQL queries for business intelligence and reporting.</li>
+        <li>Contributed to ERP software development, enhancing functionality and efficiency.</li>
+        <li>Conducted research and implemented software billing solutions based on best practices.</li>
     </ul>
 </section>
+
+---
 
 ### Skills
 
 <section style="background-color:#ecf0f1; padding:20px; border-radius:10px; margin-top:20px;">
     <h2 style="color:#2c3e50;">🔧 Skills</h2>
     <ul style="color:#34495e;">
-        <li>Web Development: C#, JavaScript, Node.js, Next.js</li>
-        <li>Databases: SQL, NoSQL</li>
-        <li>APIs: RESTful API development</li>
-        <li>Frontend: HTML, CSS, Bootstrap</li>
-        <li>Cloud: Azure</li>
-        <li>Project Management: GitHub, Azure DevOps, Jira</li>
-        <li>Data Analysis: Microsoft Power BI</li>
+        <li><strong>Backend Development:</strong> C#, ASP.NET Core, Node.js</li>
+        <li><strong>Frontend Development:</strong> React, Next.js, JavaScript, HTML, CSS, Bootstrap</li>
+        <li><strong>Database Management:</strong> SQL Server, MySQL, MongoDB, Azure SQL</li>
+        <li><strong>Cloud & DevOps:</strong> Azure (DevOps, Virtual Machines, Data Factory), Docker</li>
+        <li><strong>API Development:</strong> RESTful, GraphQL, Entity Framework</li>
+        <li><strong>Business Intelligence:</strong> Power BI, SQL Reporting Services (SSRS)</li>
+        <li><strong>Project Management:</strong> Git, Azure DevOps, Jira</li>
     </ul>
 </section>
+
+---
+
+### Certifications
+
+<section style="background-color:#f4f4f4; padding:20px; border-radius:10px; margin-top:20px;">
+    <h2 style="color:#2c3e50;">📜 Certifications</h2>
+    <ul style="color:#34495e;">
+        <li>✅ <strong>Scrum Fundamentals™</strong> | Scrum Academy | 2023</li>
+        <li>✅ <strong>Data Collection and Preprocessing (SQL Querying)</strong> | CENFOTEC University | 2024</li>
+        <li>✅ <strong>Advanced Excel</strong> | UAM-Microsoft-Intel | 2021</li>
+    </ul>
+</section>
+
+---
+
+### Education
+
+<section style="background-color:#ecf0f1; padding:20px; border-radius:10px; margin-top:20px;">
+    <h2 style="color:#2c3e50;">🎓 Education</h2>
+    <ul style="color:#34495e;">
+        <li>🎓 <strong>Bachelor's Degree in Software Engineering</strong> | International University of the Americas (UIA) | 2024 - Present</li>
+        <li>🎓 <strong>Advanced Technician in Software Development with Conversational English</strong> | CENFOTEC University | 2021 - 2023</li>
+    </ul>
+</section>
+
+---
+
+### Languages
+
+<section style="background-color:#f4f4f4; padding:20px; border-radius:10px; margin-top:20px;">
+    <h2 style="color:#2c3e50;">🌎 Languages</h2>
+    <ul style="color:#34495e;">
+        <li>🇪🇸 <strong>Spanish:</strong> Native</li>
+        <li>🇬🇧 <strong>English:</strong> Intermediate (B2)</li>
+    </ul>
+</section>
+
+---
 
 ### Contact
 
