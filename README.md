@@ -88,7 +88,7 @@
     <h2 style="color:#2c3e50;">🌎 Languages</h2>
     <ul style="color:#34495e;">
         <li>🇪🇸 <strong>Spanish:</strong> Native</li>
-        <li>🇬🇧 <strong>English:</strong> Intermediate (B2)</li>
+        <li>🇬🇧 <strong>English:</strong> Intermediate (B1)</li>
     </ul>
 </section>
 
