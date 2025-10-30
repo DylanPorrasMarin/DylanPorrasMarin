@@ -6,7 +6,7 @@
 
 <section style="background-color:#f4f4f4; padding:20px; border-radius:10px;">
     <h2 style="color:#2c3e50;">👋 Hello! I'm Dylan Porras Marín</h2>
-    <p style="color:#34495e;">I am a software engineer with over 2 years of professional experience in backend and full-stack development. Passionate about building scalable, high-performance applications and optimizing system efficiency. My expertise includes:</p>
+    <p style="color:#34495e;">I am a software engineer with over 3 years of professional experience in backend and full-stack development. Passionate about building scalable, high-performance applications and optimizing system efficiency. My expertise includes:</p>
     <ul style="color:#34495e;">
         <li>Backend and full-stack development using C#, ASP.NET Core, Next.js, and Node.js</li>
         <li>Designing and optimizing relational and non-relational databases (SQL Server, MySQL, MongoDB)</li>
@@ -101,7 +101,7 @@
     <p style="color:#34495e;">Feel free to reach out to me via email or connect with me on LinkedIn:</p>
     <ul style="color:#34495e;">
         <li><strong>Email:</strong> porrasmarindylan@gmail.com</li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dylan-porras-marin-251642277" target="_blank">Dylan Porras Marín</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/dylan-porras-marin" target="_blank">Dylan Porras Marín</a></li>
         <li><strong>GitHub:</strong> <a href="https://github.com/DylanPorrasMarin" target="_blank">Dylan Porras Marín</a></li>
     </ul>
 </section>
