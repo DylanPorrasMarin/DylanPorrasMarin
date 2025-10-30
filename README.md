@@ -22,7 +22,7 @@
 
 ## 🛠️ Professional Experience
 
-### Rena Ware International | September 2023 - Present  
+### Rena Ware International | September 2023 - July 2025  
 - Developed and maintained scalable RESTful APIs using **ASP.NET Core** and **Node.js**.  
 - Led database migration projects from virtual servers to **Azure cloud**, optimizing performance.  
 - Designed and optimized **SQL Server** queries for improved efficiency and scalability.  
